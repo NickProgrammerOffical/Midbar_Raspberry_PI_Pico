@@ -1,22 +1,3 @@
-/*
-Midbar
-Distributed under the MIT License
-© Copyright Maxim Bortnikov 2023
-For more information please visit
-https://sourceforge.net/projects/midbar/
-https://osdn.net/projects/midbar/
-https://github.com/Northstrix/Midbar
-Required libraries:
-https://github.com/zhouyangchao/AES
-https://github.com/peterferrie/serpent
-https://github.com/ddokkaebi/Blowfish
-https://github.com/Northstrix/DES_and_3DES_Library_for_MCUs
-https://github.com/ulwanski/sha512
-https://github.com/moononournation/Arduino_GFX
-https://github.com/techpaul/PS2KeyAdvanced
-https://github.com/intrbiz/arduino-crypto
-https://github.com/GyverLibs/EncButton
-*/
 // !!! Before uploading this sketch -
 // Change the Flash Size (Tools -> Flash Size) to the
 // "2MB (Sketch: 1MB, FS: 1MB)" !!!
