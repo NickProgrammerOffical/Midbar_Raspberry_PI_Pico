@@ -1,7 +1,7 @@
 /*
 Midbar
 Distributed under the MIT License
-© Copyright Maxim Bortnikov 2023
+Â© Copyright Maxim Bortnikov 2023
 For more information please visit
 https://sourceforge.net/projects/midbar/
 https://osdn.net/projects/midbar/
@@ -20,7 +20,7 @@ https://github.com/GyverLibs/EncButton
 /*
 Twinkle
 Distributed under the MIT License
-© Copyright Maxim Bortnikov 2023
+Â© Copyright Maxim Bortnikov 2023
 For more information please visit
 https://github.com/Northstrix/Twinkle
 Credit:
